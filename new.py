@@ -5,4 +5,4 @@ y = "a"
 if x == y:
     print("yes")
 else:
-    print("no")
+    print("noooo")
